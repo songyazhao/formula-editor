@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" focusable="false" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="19.914px" height="18.564px" viewBox="0 0 19.914 18.564" enable-background="new 0 0 19.914 18.564"
+	 xml:space="preserve">
+<text transform="matrix(1 0 0 1 2.166 15.782)" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="16">⇄</text>
+<g>
+	<g>
+		<polyline fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="11.332,5.032 11.332,5.532 
+			10.832,5.532 		"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" stroke-dasharray="1.0863,1.0863" x1="9.746" y1="5.532" x2="8.116" y2="5.532"/>
+		<polyline fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="7.573,5.532 7.073,5.532 7.073,5.032 
+					"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" stroke-dasharray="0.9414,0.9414" x1="7.073" y1="4.091" x2="7.073" y2="2.677"/>
+		<polyline fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="7.073,2.208 7.073,1.708 7.573,1.708 
+					"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" stroke-dasharray="1.0863,1.0863" x1="8.66" y1="1.708" x2="10.289" y2="1.708"/>
+		<polyline fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="10.832,1.708 11.332,1.708 
+			11.332,2.208 		"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" stroke-dasharray="0.9414,0.9414" x1="11.332" y1="3.149" x2="11.332" y2="4.561"/>
+	</g>
+</g>
+</svg>
